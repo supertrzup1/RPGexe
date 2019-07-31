@@ -1,8 +1,5 @@
 Kept around for the legacy edition
 
-Text replicating a large amount after pressing wdd in one statement.
-No player movement for such.
-Happening after any combination of 3+
 
 Prompted to use a item after opening inventory and pressing u (item doesn't exist)
 Happens sometimes randomly, reproducing 100%
@@ -10,11 +7,7 @@ Happens sometimes randomly, reproducing 100%
 
 Pressing yes after opening the inventory with only the wooden sword opens the window again, pressing any other key causes it to close
 
-After pressing on item 2/3/4/5 without items in it program crashes
-
 Enemy takes damage after being hit once and player attempts to run
-
-Mountains are walkthroughable, mountain at 4,2 was walkthroughable by southward walking
 
 Hardcrash- attempting to attack an enemy with an item that doesn't exist
 
@@ -32,13 +25,5 @@ Doesn't happen after combat however but you stay invisible
 Able to completely avoid combat by multimoving and walking over the enemy
 
 Invisibility granted after successfully escaping from combat
-
-Able to evade combat completely with non-keybinded button, always works
-
-Character can continue fighting a skeleton, I had -4 health and continued battle. Recieved defeation message one message AFTER death.
-
-Inventory menu crashes after attempting to select tool 2/3/4/5 or pressing a letter key that isn't bound previously
-
-Intro skip key isn't working after completing the first step of the intro, it isn't working to bypass the second part
 
 Can have health in the negatives
