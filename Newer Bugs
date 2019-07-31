@@ -1,4 +1,15 @@
 
 	don't clump instructions for two different things together (i.e map appearing during tutorial after you view inventory or failed to run away prompts being grouped with enemy attacks and player info)
 	
-	after you properly run away
+	after you properly run away from an enemy your position on the map disapears as you're still "in" the enemy
+	
+	After the skeleton defeats you in still prompts you to use wasd and once you press "w, a, s, or d" it closes the program
+	
+	consider removing the movement prompt after you initially move using wasd
+	
+	consider telling the player that they kust choose an item instead of just spamming the inventory list when fighting
+	
+	grammar error when the orc slaps you "Use" is capitalized in the middle of a sentance 
+	
+
+
