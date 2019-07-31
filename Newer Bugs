@@ -1,0 +1,4 @@
+
+	don't clump instructions for two different things together (i.e map appearing during tutorial after you view inventory or failed to run away prompts being grouped with enemy attacks and player info)
+	
+	after you properly run away
