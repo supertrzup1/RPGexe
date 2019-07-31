@@ -1,1 +1,17 @@
-Bugfiles
+Text replicating a large amount after pressing wdd in one statement.
+No player movement for such.
+Happening after any combination of 3+
+
+F2 button providing unexpected results
+
+Prompted to use a item after opening inventory and pressing u (item doesn't exist)
+Happens sometimes randomly, reproducing 100%
+
+
+Pressing yes after opening the inventory with only the wooden sword opens the window again, pressing any other key causes it to close
+
+After pressing on item 2/3/4/5 without items in it program crashes
+
+Enemy takes damage after being hit once and player attempts to run
+
+Mountains are walkthroughable
