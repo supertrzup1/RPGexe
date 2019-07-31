@@ -15,3 +15,5 @@ After pressing on item 2/3/4/5 without items in it program crashes
 Enemy takes damage after being hit once and player attempts to run
 
 Mountains are walkthroughable
+
+Hardcrash- attempting to attack an enemy with an item that doesn't exist
