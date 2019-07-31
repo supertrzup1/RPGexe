@@ -1,3 +1,5 @@
+Known bugs:
+
 Text replicating a large amount after pressing wdd in one statement.
 No player movement for such.
 Happening after any combination of 3+
@@ -28,7 +30,13 @@ Doesn't happen after combat however but you stay invisible
 
 -update happened here-
 Able to completely avoid combat by multimoving and walking over the enemy
+
 Invisibility granted after successfully escaping from combat
+
 Able to evade combat completely with non-keybinded button, always works
+
 Character can continue fighting a skeleton, I had -4 health and continued battle. Recieved defeation message one message AFTER death.
+
+Inventory menu crashes after attempting to select tool 2/3/4/5 or pressing a letter key that isn't bound previously
+
 
