@@ -1,4 +1,9 @@
 Known bugs:
+
+Text replicating a large amount after pressing wdd in one statement.
+No player movement for such.
+Happening after any combination of 3+
+
 Prompted to use a item after opening inventory and pressing u (item doesn't exist)
 Happens sometimes randomly, reproducing 100%
 
@@ -9,6 +14,7 @@ After pressing on item 2/3/4/5 without items in it program crashes
 
 Enemy takes damage after being hit once and player attempts to run
 
+Mountains are walkthroughable, mountain at 4,2 was walkthroughable by southward walking
 
 Hardcrash- attempting to attack an enemy with an item that doesn't exist
 
@@ -33,4 +39,6 @@ Character can continue fighting a skeleton, I had -4 health and continued battle
 
 Inventory menu crashes after attempting to select tool 2/3/4/5 or pressing a letter key that isn't bound previously
 
+Intro skip key isn't working after completing the first step of the intro, it isn't working to bypass the second part
 
+Able to run every time with skeletons
