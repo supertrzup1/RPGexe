@@ -17,3 +17,7 @@ Enemy takes damage after being hit once and player attempts to run
 Mountains are walkthroughable
 
 Hardcrash- attempting to attack an enemy with an item that doesn't exist
+
+When in combat, you can press a movement button. Pressing such results in successful escape 100% of the time and the enemy disappears
+Tested with wsda, all of them work
+
