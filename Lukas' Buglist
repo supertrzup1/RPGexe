@@ -1,15 +1,1 @@
-The prompt to press the i key to view inventory after claiming the wooden sword appears twice.
-
-No newline after the line about equipping armor for the prompt, currently makes text appear on the same line.
-
-Combat disrupting- Run and use item are on the same keybind. 
-
-In the introduction, it asks to press any button to continue text. However, it continues without pressing a button.
-
-Enter key needs to be pressed twice after getting your wooden sword to see the map.
-
-No newline after the loot gathering line, and it doesn't tell you to input a char.
-
-In the line aftrer you press i and go to inventory, and get told about potions/armor, you can't proceed. It gets stuck.
-
 
