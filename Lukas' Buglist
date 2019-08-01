@@ -10,4 +10,6 @@ Enter key needs to be pressed twice after getting your wooden sword to see the m
 
 No newline after the loot gathering line, and it doesn't tell you to input a char.
 
+In the line aftrer you press i and go to inventory, and get told about potions/armor, you can't proceed. It gets stuck.
+
 
