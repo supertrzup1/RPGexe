@@ -1,13 +1,1 @@
-Storage of bugs/notes/things to do instigated by Lukas. Other bugs stored in RPGexe/newer_bugs.
 
-new version only
-
-After the skeleton near the bottom of the map kills you and you have negative health, you see they defeated you then get prompted
-with the standard wasd to move/i to view inventory thing which does nothing and keeps repeating whenever you respond.
-
-Information not shown after killing orc, no inventory notifications for any tools gained.
-
-Hardcrash- After seeing the menu with the replicating wasdi prompt when death occurs, clicking a key that's not there results in a
-hard crash and heavy lags.
-
-Orc is closest enemy to spawn.
