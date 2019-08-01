@@ -1,2 +1,5 @@
 The prompt to press the i key to view inventory after claiming the wooden sword appears twice.
+
 No newline after the line about equipping armor for the prompt, currently makes text appear on the same line.
+
+Combat disrupting- Run and use item are on the same keybind. 
